@@ -1,0 +1,22 @@
+{
+  "name": "chap3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bgazzera/WebDevNodeExpressBookChap3.git"
+  },
+  "author": "Bruno Gazzera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bgazzera/WebDevNodeExpressBookChap3/issues"
+  },
+  "homepage": "https://github.com/bgazzera/WebDevNodeExpressBookChap3",
+  "dependencies": {
+    "express": "^4.11.1"
+  }
+}
